@@ -8,5 +8,5 @@ Objectives:
  - Writing semantic HTML
  - Practice git workflow
 
-live Preview:
+Live Preview:
  https://ricardodsobral.github.io/odin-recipes/
