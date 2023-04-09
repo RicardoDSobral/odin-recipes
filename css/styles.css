@@ -2,3 +2,22 @@ html {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     box-sizing: border-box;
 }
+
+body {
+    text-align: center;
+}
+
+ul,
+ol {
+    list-style-position: inside;
+}
+
+p {
+    text-indent: 2rem;
+}
+
+.front_cover {
+    width: 100%;
+    height: auto;
+}
+
