@@ -21,3 +21,14 @@ p {
     height: auto;
 }
 
+.text-container {
+    margin: auto;
+    width: 80%;
+    text-align: justify;
+}
+
+.list-container {
+    margin: auto;
+    width: 80%;
+    text-align: left;
+}
