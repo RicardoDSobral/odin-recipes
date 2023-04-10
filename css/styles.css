@@ -1,6 +1,7 @@
 html {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     box-sizing: border-box;
+    line-height: 1.3em;
 }
 
 body {
@@ -14,6 +15,20 @@ ol {
 
 p {
     text-indent: 2rem;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 1em;
+
+}
+
+a:hover,
+a:active, 
+a:focus {
+    text-decoration: underline;
+    color: blue;
 }
 
 .front_cover {
