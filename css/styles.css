@@ -2,6 +2,7 @@ html {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     box-sizing: border-box;
     line-height: 1.3em;
+    scroll-behavior: smooth;
 }
 
 body {
